@@ -29,6 +29,13 @@ Our interactive dashboard serves as a powerful tool for:
 - Trend Monitoring: Tracking changes in attrition rates over time to detect emerging issues
 - Informing Decision-Making: Providing actionable insights to guide HR policies and initiatives
 
+
+### Dashboard Snapshot
+
+![image](https://github.com/user-attachments/assets/376d03a8-6bd7-4e00-897b-1d6e01ddc472)
+
+
+
 ## From Insights to Action
 The dashboard enables data-driven strategies, such as:
 
@@ -38,3 +45,5 @@ The dashboard enables data-driven strategies, such as:
 
 ## Conclusion
 This HR analytics project goes beyond mere data collection. It provides a systematic approach to understanding and addressing employee attrition, transforming raw data into actionable strategies. By leveraging these insights, organizations can create more effective retention policies, enhance job satisfaction, and ultimately build a more stable and productive workforce.
+
+We invite collaboration and feedback from the GitHub community to further refine and expand this analytical approach to HR management.
